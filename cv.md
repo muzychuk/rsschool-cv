@@ -12,9 +12,9 @@
 
 Academic degree: Specialist
 
----
-
 Specialization: Computer science in managing and education
+
+---
 
 **University of Technology in Lublin**
 
